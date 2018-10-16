@@ -411,17 +411,17 @@ div.servicio:hover p{
 
 /******Contenedor*****/
 .contenedor{
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
 }
 @media only screen and (min-widt: 480px){
     .contenedor{
-        width: 95%;
+        width: 90%;
     }
 }
 @media only screen and (min-widt: 768px){
     .contenedor{
-        width: 90%;
+        width: 95%;
     }
 }
 @media only screen and (min-widt: 992px){
@@ -436,8 +436,12 @@ div.servicio:hover p{
 div.cboxElement {
     padding: 10px;
     text-align: center;
-}
 
+}
+div.cboxElement img{
+    width: 100%;
+    height: auto;
+}
 
 
 

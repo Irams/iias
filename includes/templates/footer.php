@@ -12,7 +12,7 @@
                 <li><a href="#">Telecomunicaciones</a></li>
                 <li><a href="#">Servicio Automotriz</a></li>
                 <li><a href="#">Diseño Web</a></li>
-                <li><a href="#">VPAS</a></li>
+                <li><a href="vpas.php">VPAS</a></li>
                 <li><a href="#">Nuestros Clientes</a></li>
             </ul>
         </div>
@@ -25,7 +25,7 @@
             </nav>
         </div><!--menu-->
     </div><!--.contenedor-->
-    <p class="copyright">© Todos los derechos reservados Ingeniería Integral Asociados 2018. </br>By HIMS</p>
+    <p class="copyright">© Todos los derechos reservados <span><a href="index.php">Ingeniería Integral Asociados</a></span> 2018. </br>By HIMS</p>
 </footer>
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>

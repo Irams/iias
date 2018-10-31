@@ -6,7 +6,7 @@
  * Time: 06:36 PM
  */
 
-$conn = new mysqli('localhost','root' ,'maga_098','iia');
+$conn = new mysqli('localhost','root' ,'aserty','iia');
 if($conn->connect_error){
     echo $error->$conn->connect_error;
 }

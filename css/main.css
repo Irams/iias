@@ -278,6 +278,7 @@ div.cboxElement h2{
     font-size: 100%;
     color: #fe4918;
 }
+
 @media only screen and (min-width: 768px){
     div.cboxElement img{
         width: 45%;
@@ -324,6 +325,16 @@ footer .links li{
 footer .links li a{
   text-decoration: none;
   color: #ffffff;
+}
+footer .links li a:hover{
+    color: #fe4918;
+}
+footer p span a{
+    text-decoration: none;
+    color: #fe4918;
+}
+footer p span a:hover{
+    color: #ffffff;
 }
 footer nav.redes-sociales{
   text-align: left;

@@ -1,6 +1,3 @@
+   //COLOROBOX
 
-
-    //COLOROBOX
-
-    $('.servicio-info').colorbox({inline:true, width:"50%"});
-
+   $('.servicio-info').colorbox({inline:true, width:"50%"});    
